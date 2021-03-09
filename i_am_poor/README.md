@@ -1,16 +1,14 @@
-# i_am_poor
+# I Am Poor
+A simple Flutter project.
 
-A new Flutter project.
+## Through this project, I've learned:
+- to set up a new Flutter project using Android Studio.
+- the Widget tree and to use pre-made Flutter Widgets for user interface design.
+- to incorporate Image and Text Widgets to create simple user interfaces.
+- to incorporate App Icons for iOS and Android.
+- how to add and load image assets to Flutter projects.
+- how to run Flutter apps on iOS Simulator, Android Emulator, and physical devices.
 
-## Getting Started
+Screenshots from the app:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center"><img src="screenshots/i_am_poor_1.png" width="300"></p>

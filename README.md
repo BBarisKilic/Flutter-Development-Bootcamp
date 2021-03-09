@@ -19,4 +19,19 @@ Through this project, I've learned:
 - how to run Flutter apps on iOS Simulator, Android Emulator, and physical devices.
 
 Screenshots from the app:
-![](screenshoots/../screenshots/i_am_poor_1.png)
+
+<p align="center"><img src="screenshots/i_am_poor_1.png" width="300"></p>
+
+2- [Mi Card](mi_card)
+
+Through this project, I've learned:
+- how to create Stateless Widgets
+- what is the difference between hot reload and hot refresh and running an app from cold
+- how to use Containers to lay out your UI
+- how to use Columns and Rows to position your UI elements
+- how to add custom fonts
+- how to add Material icons
+- how to style Text widgets
+- how to read and use Flutter Documentation
+  
+<p align="center"><img src="screenshots/mi_card_1.png" width="300"></p>
