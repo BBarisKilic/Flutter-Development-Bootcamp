@@ -18,9 +18,11 @@ Through this project, I've learned:
 - how to add and load image assets to Flutter projects.
 - how to run Flutter apps on iOS Simulator, Android Emulator, and physical devices.
 
-Screenshots from the app:
+Screenshot from the app:
 
 <p align="center"><img src="screenshots/i_am_poor_1.png" width="300"></p>
+
+---
 
 2- [Mi Card](mi_card)
 
@@ -33,8 +35,12 @@ Through this project, I've learned:
 - how to add Material icons
 - how to style Text widgets
 - how to read and use Flutter Documentation
-  
+
+Screenshot from the app:
+
 <p align="center"><img src="screenshots/mi_card_1.png" width="300"></p>
+
+---
 
 3- [Dicee](dicee)
 
@@ -49,4 +55,18 @@ Through this project, I've learned:
 - basic dart programming concepts such as data types and functions.
 - code and use gesture controls.
 
+Screenshot from the app:
+
 <p align="center"><img src="screenshots/dicee_1.png" width="300"></p>
+
+---
+
+3- [Magic 8 Ball](magic_8_ball)
+
+Magic 8 Ball app will give you the answers to all the tricky questions in life. You can make the ball change at the press of a button.
+
+The objective of this project is to solidify what I've learned in the Dicee project.
+
+Screenshot from the app:
+
+<p align="center"><img src="screenshots/magic_8_ball_1.png" width="300"></p>
