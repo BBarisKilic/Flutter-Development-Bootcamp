@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/src/widgets/basic.dart';
-import 'package:flutter/src/widgets/basic.dart';
-import 'package:flutter/src/widgets/basic.dart';
+import 'dart:math';
 
 void main() {
   return runApp(
@@ -19,7 +17,18 @@ void main() {
   );
 }
 
-class DicePage extends StatelessWidget {
+class DicePage extends StatefulWidget {
+  DicePage({Key key}) : super(key: key);
+
+  @override
+  _DicePageState createState() => _DicePageState();
+}
+
+class _DicePageState extends State<DicePage> {
+  //variables
+  int leftDiceNumber = 1;
+  int rightDiceNumber = 2;
+
   @override
   Widget build(BuildContext context) {
     return Center(
@@ -27,20 +36,29 @@ class DicePage extends StatelessWidget {
         children: [
           Expanded(
             child: TextButton(
-                onPressed: () {
-                  print("left button pressed!");
-                },
-                child: Image.asset('images/dice1.png')),
+              onPressed: () {
+                reRoll();
+              },
+              child: Image.asset('images/dice$leftDiceNumber.png'),
+            ),
           ),
           Expanded(
             child: TextButton(
-                onPressed: () {
-                  print("right button pressed!");
-                },
-                child: Image.asset('images/dice1.png')),
+              onPressed: () {
+                reRoll();
+              },
+              child: Image.asset('images/dice$rightDiceNumber.png'),
+            ),
           ),
         ],
       ),
     );
+  }
+
+  void reRoll() {
+    setState(() {
+      leftDiceNumber = Random().nextInt(6) + 1;
+      rightDiceNumber = Random().nextInt(6) + 1;
+    });
   }
 }

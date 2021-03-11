@@ -11,10 +11,10 @@ Take a look course syllabus:
 1- [I Am Poor](i_am_poor)
 
 Through this project, I've learned:
-- to set up a new Flutter project using Android Studio.
+- how to set up a new Flutter project using Android Studio.
 - the Widget tree and to use pre-made Flutter Widgets for user interface design.
-- to incorporate Image and Text Widgets to create simple user interfaces.
-- to incorporate App Icons for iOS and Android.
+- how to incorporate Image and Text Widgets to create simple user interfaces.
+- how to incorporate App Icons for iOS and Android.
 - how to add and load image assets to Flutter projects.
 - how to run Flutter apps on iOS Simulator, Android Emulator, and physical devices.
 
@@ -35,3 +35,18 @@ Through this project, I've learned:
 - how to read and use Flutter Documentation
   
 <p align="center"><img src="screenshots/mi_card_1.png" width="300"></p>
+
+3- [Dicee](dicee)
+
+Through this project, I've learned:
+- how to use Flutter stateless widgets to design the user interface.
+- how to use Flutter stateful widgets to update the user interface.
+- how to change the properties of various widgets.
+- how to use onPressed listeners to detect when buttons are pressed.
+- how to use setState to mark the widget tree as dirty and requiring update on the next render.
+- how to use Expanded to make widgets adapt to screen dimensions.
+- string interpolation.
+- basic dart programming concepts such as data types and functions.
+- code and use gesture controls.
+
+<p align="center"><img src="screenshots/dicee_1.png" width="300"></p>
