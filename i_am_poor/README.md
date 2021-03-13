@@ -1,14 +1,14 @@
 # I Am Poor
-A simple Flutter project.
+An app that simply displays an image at the center of the screen. The project has been written solely in Dart Language.
 
-## Through this project, I've learned:
-- to set up a new Flutter project using Android Studio.
-- the Widget tree and to use pre-made Flutter Widgets for user interface design.
-- to incorporate Image and Text Widgets to create simple user interfaces.
-- to incorporate App Icons for iOS and Android.
-- how to add and load image assets to Flutter projects.
-- how to run Flutter apps on iOS Simulator, Android Emulator, and physical devices.
+## Through this project, I've learned how to:
+-	set up a new Flutter project using Android Studio.
+-	use  pre-made Flutter Widgets for user interface design.
+-	incorporate Image and Text Widgets to create simple user interfaces.
+-	incorporate App Icons for iOS and Android.
+-	add and load image assets to Flutter projects.
+-	run Flutter apps on iOS Simulator, Android Emulator, and physical devices.
 
-Screenshots from the app:
+Screenshot from the app:
 
-<p align="center"><img src="screenshots/i_am_poor_1.png" width="300"></p>
+<p align="center"><img src="images/i_am_poor_1.png" width="300"></p>
