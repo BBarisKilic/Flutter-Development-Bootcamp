@@ -102,7 +102,7 @@ Screenshot from the app:
 
 A quiz app that tests your general knowledge. The project has been written solely in Dart Language.
 
-## Through this project, I've learned:
+Through this project, I've learned:
 -   modularising my code into separate classes.
 -   dart classes and objects.
 -   using class constructors.
