@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
-
-const labelTextStyle = TextStyle(fontSize: 18, color: Color(0xff8D8E98));
-const iconSize = 80.0;
-const space = 15.0;
+import 'package:bmi_calculator/constants/constans.dart';
 
 class GenderSelectChildCard extends StatelessWidget {
   final IconData genderIcon;
@@ -17,14 +14,14 @@ class GenderSelectChildCard extends StatelessWidget {
       children: [
         Icon(
           genderIcon,
-          size: iconSize,
+          size: kIconSize,
         ),
         SizedBox(
-          height: space,
+          height: kSpace,
         ),
         Text(
           gender,
-          style: labelTextStyle,
+          style: kLabelTextStyle,
         ),
       ],
     );

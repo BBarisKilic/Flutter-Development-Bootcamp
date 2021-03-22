@@ -1,23 +1,25 @@
 import 'package:flutter/material.dart';
-
-const margin = 15.0;
-const borderRadius = 10.0;
+import 'package:bmi_calculator/constants/constans.dart';
 
 class ReusableCard extends StatelessWidget {
   final Color color;
   final Widget childCard;
+  final Function onPress;
 
-  ReusableCard({@required this.color, this.childCard});
+  ReusableCard({@required this.color, this.childCard, this.onPress});
 
   @override
   Widget build(BuildContext context) {
-    return Container(
-      margin: EdgeInsets.all(margin),
-      decoration: BoxDecoration(
-        color: color,
-        borderRadius: BorderRadius.circular(borderRadius),
+    return GestureDetector(
+      onTap: onPress,
+      child: Container(
+        margin: EdgeInsets.all(kMargin),
+        decoration: BoxDecoration(
+          color: color,
+          borderRadius: BorderRadius.circular(kBorderRadius),
+        ),
+        child: childCard,
       ),
-      child: childCard,
     );
   }
 }
