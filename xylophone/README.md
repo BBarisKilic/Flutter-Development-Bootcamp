@@ -9,6 +9,6 @@ An app that plays Xylophone sounds.
 -   how to use Dart functions that can take input arguments as well as return an output.
 -   dart arrow syntax for writing one line functions.
 
-Screenshot from the app:
+Screenshot of the app:
 
 <p align="center"><img src="images/xylophone_1.png" width="300"></p>

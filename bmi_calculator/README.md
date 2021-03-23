@@ -1,16 +1,20 @@
-# bmi_calculator
+# BMI Calculator
 
-A new Flutter project.
+Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). The project has been written solely in Dart Language.
 
-## Getting Started
+## Through this project, I've learned:
 
-This project is a starting point for a Flutter application.
+-   how to use Flutter themes to create coherent branding.
+-   how to create multi-page apps using Flutter Routes and Navigator.
+-   how to extract and refactor Flutter Widgets with a click of the button.
+-   how to pass functions as parameters and fields.
+-   how to use the GestureDetector Widget to detect more than just a tap.
+-   how to use custom colour palettes by using hex codes.
+-   how to customise Flutter Widgets to achieve a specific design style.
+-   dart Enums and the Ternary Operator.
+-   about composition vs. inheritance and the Flutter way of creating custom UI.
+-   the difference between const and final in Dart and when to use each.
 
-A few resources to get you started if this is your first Flutter project:
+Screenshots of the app:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center"><img src="images/bmi_calculator_1.png" width="300">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="images/bmi_calculator_2.png" width="300"></p>

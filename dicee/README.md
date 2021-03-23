@@ -13,6 +13,6 @@ A dice app that can make the die roll at the press of a button. The project has 
 -	basic dart programming concepts such as data types and functions.
 -	code and use gesture controls.
 
-Screenshot from the app:
+Screenshot of the app:
 
 <p align="center"><img src="images/dicee_1.png" width="300"></p>

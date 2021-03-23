@@ -11,5 +11,6 @@ A personal business card as an app. The project has been written solely in Dart 
 -	how to style Text widgets.
 -	how to read and use Flutter Documentation.
 
-Screenshot from the app:
+Screenshot of the app:
+
 <p align="center"><img src="images/mi_card_1.png" width="300"></p>

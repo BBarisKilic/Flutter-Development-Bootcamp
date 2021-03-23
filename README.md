@@ -20,7 +20,7 @@ Through this project, I've learned how to:
 -	add and load image assets to Flutter projects.
 -	run Flutter apps on iOS Simulator, Android Emulator, and physical devices.
 
-Screenshot from the app:
+Screenshot of the app:
 
 <p align="center"><img src="screenshots/i_am_poor_1.png" width="300"></p>
 
@@ -41,7 +41,7 @@ Through this project, I've learned:
 -	how to read and use Flutter Documentation.
 
 
-Screenshot from the app:
+Screenshot of the app:
 
 <p align="center"><img src="screenshots/mi_card_1.png" width="300"></p>
 
@@ -63,7 +63,7 @@ Through this project, I’ve learned:
 -	code and use gesture controls.
 
 
-Screenshot from the app:
+Screenshot of the app:
 
 <p align="center"><img src="screenshots/dicee_1.png" width="300"></p>
 
@@ -75,7 +75,7 @@ An app that will give you the answers to all the tricky questions in life. The p
 
 The objective of this project is to solidify what I’ve learned in the Dicee project.
 
-Screenshot from the app:
+Screenshot of the app:
 
 <p align="center"><img src="screenshots/magic_8_ball_1.png" width="300"></p>
 
@@ -92,7 +92,7 @@ Through this project, I’ve learned:
 -   how to use Dart functions that can take input arguments as well as return an output.
 -   dart arrow syntax for writing one line functions.
 
-Screenshot from the app:
+Screenshot of the app:
 
 <p align="center"><img src="screenshots/xylophone_1.png" width="300"></p>
 
@@ -112,7 +112,8 @@ Through this project, I've learned:
 -   how to use Dart lists.
 -   the difference between var, const and final.
 
-Screenshot from the app:
+Screenshot of the app:
+
 <p align="center"><img src="screenshots/quizzler_1.png" width="300"></p>
 
 ---
@@ -123,6 +124,27 @@ A game where the story changes according to your decisions. The project has been
 
 The objective of this project is to solidify what I’ve learned in the Quizzler project.
 
-Screenshot from the app:
+Screenshot of the app:
 
 <p align="center"><img src="screenshots/destini_1.png" width="300"></p>
+
+8- [BMI Calculator](bmi_calculator)
+
+Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). The project has been written solely in Dart Language.
+
+Through this project, I've learned:
+
+-   how to use Flutter themes to create coherent branding.
+-   how to create multi-page apps using Flutter Routes and Navigator.
+-   how to extract and refactor Flutter Widgets with a click of the button.
+-   how to pass functions as parameters and fields.
+-   how to use the GestureDetector Widget to detect more than just a tap.
+-   how to use custom colour palettes by using hex codes.
+-   how to customise Flutter Widgets to achieve a specific design style.
+-   dart Enums and the Ternary Operator.
+-   about composition vs. inheritance and the Flutter way of creating custom UI.
+-   the difference between const and final in Dart and when to use each.
+
+Screenshots of the app:
+
+<p align="center"><img src="screenshots/bmi_calculator_1.png" width="300">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="screenshots/bmi_calculator_2.png" width="300"></p>

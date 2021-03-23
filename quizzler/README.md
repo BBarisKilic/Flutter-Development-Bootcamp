@@ -12,5 +12,6 @@ A quiz app that tests your general knowledge. The project has been written solel
 -   how to use Dart lists.
 -   the difference between var, const and final.
 
-Screenshot from the app:
+Screenshot of the app:
+
 <p align="center"><img src="images/quizzler_1.png" width="300"></p>

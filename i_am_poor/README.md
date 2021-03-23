@@ -9,6 +9,6 @@ An app that simply displays an image at the center of the screen. The project ha
 -	add and load image assets to Flutter projects.
 -	run Flutter apps on iOS Simulator, Android Emulator, and physical devices.
 
-Screenshot from the app:
+Screenshot of the app:
 
 <p align="center"><img src="images/i_am_poor_1.png" width="300"></p>
