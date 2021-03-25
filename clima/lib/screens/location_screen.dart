@@ -68,26 +68,30 @@ class _LocationScreenState extends State<LocationScreen> {
                 children: <Widget>[
                   TextButton(
                     onPressed: () async {
-                      var newLocationWeather =
-                          await weatherModel.getLocationWeather();
-                      updateUI(newLocationWeather);
+                      var newWeather = await weatherModel.getLocationWeather();
+                      updateUI(newWeather);
                     },
                     child: Icon(
                       Icons.near_me,
-                      color: Colors.lightBlueAccent,
+                      color: Colors.white,
                       size: 50.0,
                     ),
                   ),
                   TextButton(
-                    onPressed: () {
-                      Navigator.push(context,
+                    onPressed: () async {
+                      var typedCity = await Navigator.push(context,
                           MaterialPageRoute(builder: (context) {
                         return CityScreen();
                       }));
+                      if (typedCity != null) {
+                        var newWeather =
+                            await weatherModel.getCityWeather(typedCity);
+                        updateUI(newWeather);
+                      }
                     },
                     child: Icon(
                       Icons.location_city,
-                      color: Colors.lightBlueAccent,
+                      color: Colors.white,
                       size: 50.0,
                     ),
                   ),
