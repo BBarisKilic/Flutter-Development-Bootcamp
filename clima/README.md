@@ -1,16 +1,21 @@
-# clima
+# Clima
 
-A new Flutter project.
+A weather app inspired by the beautiful designs made by [Olia Gozha](https://dribbble.com/shots/4663154-). The project has been written solely in Dart Language.
 
-## Getting Started
+## Through this project, I've learned:
 
-This project is a starting point for a Flutter application.
+- how to use Dart to perform asynchronous tasks.
+- async and await.
+- about Futures and how to work with them.
+- how to network with the Dart http package.
+- what APIs are and how to use them to get data from the internet.
+- what JSONs are and how to parse them using the Dart convert package.
+- how to pass data forwards and backwards between screens using the Navigator.
+- how to handle exceptions in Dart using try/catch/throw.
+- about the lifecycle of Stateful Widgets and how to override them.
+- how to use the Geolocator package to get live location data for both iOS and Android.
+- how to use the TextField Widget to take user input.
 
-A few resources to get you started if this is your first Flutter project:
+Screenshots of the app:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center"><img src="images/clima_1.png" width="300">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="images/clima_2.png" width="300">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="images/clima_3.png" width="300"></p>
