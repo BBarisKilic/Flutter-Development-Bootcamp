@@ -28,4 +28,9 @@ const List<String> cryptoList = [
   'LTC',
 ];
 
-class CoinData {}
+const coinAPIURL = 'https://rest.coinapi.io/v1/exchangerate';
+const apiKey = 'YOUR-API-KEY-HERE';
+
+class CoinData {
+  //TODO: Create your getCoinData() method here.
+}
