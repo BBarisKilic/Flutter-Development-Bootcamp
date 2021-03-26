@@ -128,6 +128,8 @@ Screenshot of the app:
 
 <p align="center"><img src="screenshots/destini_1.png" width="300"></p>
 
+---
+
 8- [BMI Calculator](bmi_calculator)
 
 Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). The project has been written solely in Dart Language.
@@ -148,6 +150,8 @@ Through this project, I've learned:
 Screenshots of the app:
 
 <p align="center"><img src="screenshots/bmi_calculator_1.png" width="300">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="screenshots/bmi_calculator_2.png" width="300"></p>
+
+---
 
 9- [Clima](clima)
 
@@ -171,6 +175,8 @@ Screenshots of the app:
 
 <p align="center"><img src="screenshots/clima_1.png" width="300">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="screenshots/clima_2.png" width="300">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="screenshots/clima_3.png" width="300"></p>
 
+---
+
 10- [Bitcoin Ticker](bitcoin_ticker)
 
 A crypto currency price checking app. The project has been written solely in Dart Language.
@@ -185,3 +191,5 @@ Through this project, I've learned how to:
 Screenshots of the app:
 
 <p align="center"><img src="screenshots/bitcoin_ticker_1.png" width="300">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="screenshots/bitcoin_ticker_2.png" width="300"></p>
+
+---
