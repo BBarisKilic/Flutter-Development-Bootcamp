@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'registration_screen.dart';
 import 'login_screen.dart';
 import 'package:animated_text_kit/animated_text_kit.dart';
+import 'package:firebase_core/firebase_core.dart';
 
 class WelcomeScreen extends StatefulWidget {
   static const String id = '/';
@@ -33,6 +34,8 @@ class _WelcomeScreenState extends State<WelcomeScreen>
     controller.addListener(() {
       setState(() {});
     });
+
+    Firebase.initializeApp();
   }
 
   @override
