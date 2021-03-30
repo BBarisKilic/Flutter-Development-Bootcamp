@@ -6,8 +6,8 @@ A crypto currency price checking app. The project has been written solely in Dar
 
 -   use the DropdownButton Widget from Material design.
 -   loop through code using Dart for and for-in loops.
--   use Cupertino Widgets in your app.
--   check the platform your app is being run on to customise the UI for that platform.
+-   use Cupertino Widgets in app.
+-   check the platform to customise the UI for that platform.
 
 Screenshots of the app:
 
