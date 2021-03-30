@@ -1,16 +1,20 @@
-# flash_chat
+# Flash Chat
 
-A new Flutter project.
+A modern messaging app where users can sign up and log in to chat. The project has been written solely in Dart Language.
 
-## Getting Started
+## Through this project, I've learned:
 
-This project is a starting point for a Flutter application.
+-   how to incorporate Firebase into Flutter projects.
+-   how to use Firebase authentication to register and sign in users.
+-   how to create beautiful animations using the Flutter Hero widget.
+-   how to create custom aniamtions using Flutter's animation controller.
+-   all about mixins and how they differ from superclasses.
+-   about Streams and how they work.
+-   to use ListViews to build scrolling views.
+-   how to use Firebase Cloud Firestore to store and retrieve data on the fly.
 
-A few resources to get you started if this is your first Flutter project:
+Screenshots of the app:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<p align="center"><img src="images/flash_chat_1.png" width="300">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="images/flash_chat_2.png" width="300"></p>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center"><img src="images/flash_chat_3.png" width="300">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="images/flash_chat_4.png" width="300"></p>
