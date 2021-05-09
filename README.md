@@ -1,4 +1,5 @@
-# The App Brewery Flutter Course Projects
+# <p align="center">Flutter Development Bootcamp</p> 
+
 In this repository, you can see what I have done and learned through this course.
 
 ## Course Syllabus
