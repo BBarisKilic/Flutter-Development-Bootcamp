@@ -1,11 +1,13 @@
 # <p align="center">Flutter Development Bootcamp</p> 
 
-In this repository, you can see what I have done and learned through this course.
+<p align="center"><img src="flutter_bootcamp.png" width="480"></p>
 
-## Course Syllabus
+## <p align="center">Camp Details</p>
 
-Take a look course syllabus:
-- [Syllabus](App%20Brewery%20Flutter%20Course%20Syllabus.pdf)
+In this repository, you can see what I have done and learned through this camp.
+
+Syllabus - The Complete Flutter Development Bootcamp: 
+- [Syllabus](app_brewery_flutter_bootcamp_syllabus.pdf)
 
 ## Projects
 
